@@ -1,0 +1,25 @@
+.form{
+    background-color: white;
+    width: 50%;
+    justify-self: center;
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    gap: 3rem;
+    padding: 0 3rem;
+    justify-content: center;
+
+}
+
+.form .title{
+    text-align: center;
+    margin: 0;
+}
+
+
+.form button{
+    width: 200px;
+    align-self: center;
+}
+
+
